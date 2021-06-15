@@ -1,0 +1,6 @@
+{
+    "cache_directory": "",
+    "cache_size": 200,
+    "cache_expiry_delay": 30,
+    "disableRichPresence": false
+  }
